@@ -1,0 +1,2 @@
+Dados de produto: Suite de automação de marketing com geração de conteúdo e insights SEO.
+Features: calendário, análises, integrações Ads/GA4.

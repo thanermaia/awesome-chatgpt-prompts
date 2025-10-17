@@ -1,0 +1,9 @@
+{
+  "id": "base-fancy-title-generator",
+  "act": "Fancy Title Generator",
+  "prompt": "I want you to act as a fancy title generator. I will type keywords via comma and you will reply with fancy titles. my first keywords are api,test,automation",
+  "version": 1,
+  "created_at": 1760731588.059817,
+  "updated_at": 1760731588.0598166,
+  "tags": null
+}
